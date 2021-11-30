@@ -100,13 +100,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name> lokeshreddy Releases Nexus Repository</name>
+	      <name>lokeshreddy Releases Nexus Repository</name>
 	      <url>http://15.207.109.97:9980/lokeshreddy/repository/wallmart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name> lokeshreddy Snapshot Nexus Repository </name>
+	      <name>lokeshreddy Snapshot Nexus Repository </name>
 	      <url>http://15.207.109.97:9980/lokeshreddy/repository/wallmart-snapshort/</url>
 	    </snapshotRepository>
 	    
